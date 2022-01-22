@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Aayush Jamwal</h1>
 <h3 align="center">First Year B.Tech CSE Student in VIT,Bhopal</h3>
 
-- ✨My Dream is **Becoming a Game Developer**
+- ✨Goal=**Becoming a Game Developer**
 
 - 🌱 I’m currently learning **Everything I Find Interesting(Mainly Python)**
 
-- 🔭 I’m currently working on **Improving my Coding Skills**
+- 🔭 Currently working on **Improving my Coding Skills**
 
-- 📫 How to reach me **aayushjamwal@gmail.com**
+- 📫 Reach me at **aayushjamwal@gmail.com**
 
 - I love GAMING and ANIME
 
@@ -20,7 +20,7 @@
 <a href="https://www.facebook.com/aayush.jamwal/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="aayush jamwak" height="30" width="40" /></a>
 <a href="https://instagram.com/aayush._.jamwal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="faded._.ace" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/aayushjamwal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@aayushjamwal" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/aayush-jamwal-478123171/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ss" height="30" width="40" /></a>
 </p>
-
 <h3 align="left">I think I am Good In these At the moment:</h3>
 <p align="left"> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
