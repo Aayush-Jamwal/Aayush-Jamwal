@@ -13,7 +13,7 @@
 
 ![SaUF](https://user-images.githubusercontent.com/98228106/150651472-eb7385ea-5bc1-4c5f-9a11-8755ffd47686.gif)
 
-- Currently My Profile is Boring.Will Add Every New things I Learn
+- Currently My Profile is Boring.Will Add Every New thing I Learn
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
