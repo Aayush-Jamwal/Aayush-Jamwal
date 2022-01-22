@@ -1,16 +1,26 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm Aayush Jamwal</h1>
+<h3 align="center">First Year B.Tech CSE Student in VIT,Bhopal</h3>
 
-<!--
-**FadedAce-AayushJamwal/FadedAce-AayushJamwal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- ✨My Dream is **Becoming a Game Developer**
 
-Here are some ideas to get you started:
+- 🌱 I’m currently learning **Everything I Find Interesting(Mainly Python)**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on **Improving my Coding Skills**
+
+- 📫 How to reach me **aayushjamwal@gmail.com**
+
+- I love GAMING and ANIME
+
+![SaUF](https://user-images.githubusercontent.com/98228106/150651472-eb7385ea-5bc1-4c5f-9a11-8755ffd47686.gif)
+
+- Currently My Profile is Boring.Will Add Every New things I Learn
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.facebook.com/aayush.jamwal/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="aayush jamwak" height="30" width="40" /></a>
+<a href="https://instagram.com/aayush._.jamwal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="faded._.ace" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/aayushjamwal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@aayushjamwal" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">I think I am Good In these At the moment:</h3>
+<p align="left"> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
