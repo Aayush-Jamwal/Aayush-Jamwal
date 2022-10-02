@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aayush Jamwal</h1>
-<h3 align="center">First Year B.Tech CSE Student in VIT,Bhopal</h3>
+<h3 align="center">Second Year B.Tech CSE Student in VIT,Bhopal</h3>
 
 - ✨Goal=**Becoming a Game Developer**
 
