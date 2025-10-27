@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Aayush Jamwal</h1>
-<h3 align="center">Second Year B.Tech CSE Student in VIT,Bhopal</h3>
+<h3 align="center">B.Tech CSE Graduate VIT,Bhopal</h3>
 
-- ✨Goal=**Becoming a Game Developer**
+- ✨Goal=**Becoming a Game Developer/AI Engineer (the best)**
 
-- 🌱 I’m currently learning **Everything I Find Interesting(Mainly Python)**
+- 🌱 I’m currently learning **Everything I Find Interesting(Mainly Unity )**
 
-- 🔭 Currently working on **Improving my Coding Skills**
+- 🔭 Currently working on **Improving myself**
 
 - 📫 Reach me at **aayushjamwal@gmail.com**
 
-- I love GAMING and ANIME
+- 
 
 ![SaUF](https://user-images.githubusercontent.com/98228106/150651472-eb7385ea-5bc1-4c5f-9a11-8755ffd47686.gif)
 
