@@ -1,26 +1,72 @@
-<h1 align="center">Hi 👋, I'm Aayush Jamwal</h1>
-<h3 align="center">B.Tech CSE Graduate VIT,Bhopal</h3>
+# Hi there, I'm Aayush Jamwal 👋
 
-- ✨Goal=**Becoming a Game Developer/AI Engineer (the best)**
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/aayushjamwal)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:aayushjamwal@gmail.com)
+[![Portfolio / GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/Aayush-Jamwal)
 
-- 🌱 I’m currently learning **Everything I Find Interesting(Mainly Unity )**
+**Software Development Engineer (Full-Stack & Systems)**  
+Computer Science graduate passionate about building robust web platforms, automated testing frameworks, and secure client-side tools[cite: 1]. Experienced in rapid application prototyping, API design, and digital systems verification[cite: 1].
 
-- 🔭 Currently working on **Improving myself**
+---
 
-- 📫 Reach me at **aayushjamwal@gmail.com**
+### 🚀 Highlights & Recent Milestones
 
+- 🏆 **Top 10 Global / #67 India** — Ranked among top engineers in PromptWars Virtual for **MatchDay Pro** (Vanilla JS, client-side telemetry, dual-runtime test suite).
+- 🌍 **Top 400 Globally** — Recognized in PromptWars for **EcoPulse 2.0** (React/Vite carbon footprint analytics engine, 96.24/100 benchmark score)[cite: 1].
+- 🛡️ **Cyber & Forensics Background** — Former Lab Intern at the State Forensic Science Laboratory (SFSL) and Systems Intern for the G20 DRR Working Group (NDMA)[cite: 1].
+- 🤝 **International Operations** — Delegation Operations Volunteer at the 3rd BRICS DRR Working Group Meeting (July 2026).
 
-![SaUF](https://user-images.githubusercontent.com/98228106/150651472-eb7385ea-5bc1-4c5f-9a11-8755ffd47686.gif)
+---
 
-- Will Add Every New thing I Learn
+### 🛠️ Tech Stack & Tooling
 
-<h3 align="left">Connect with me:</h3>
+**Languages & Core Fundamentals**  
+`C++` • `Python` • `JavaScript (ES6+)` • `SQL` • `Data Structures & Algorithms` • `OOP`
+
+**Frontend & Backend Web Development**  
+`React.js` • `Node.js` • `Vite` • `RESTful APIs` • `HTML5 / CSS3` • `JSON Schema Validation`
+
+**Testing & Security**  
+`Jest Testing Framework` • `Unit & Integration Testing` • `Content Security Policy (CSP)` • `Input Sanitization & XSS Mitigation` • `Role-Based Access Control (RBAC)`
+
+**Platforms & Tools**  
+`Git` • `GitHub` • `Linux/Bash` • `Google Cloud Platform (GCP)` • `FTK / Autopsy`
+
+---
+
+### 💻 Featured Projects
+
+#### ⚽ [MatchDay Pro](https://github.com/Aayush-Jamwal)
+> **Real-time stadium operations, telemetry tracking, and incident coaching dashboard.**
+- Built a high-performance modular JavaScript (ES Modules) client with live density calculations and SVG zone colorization.
+- Engineered a **dual-runtime test suite** running 62 automated tests natively across both Jest and standalone Node.js.
+- Implemented defensive filters against XSS and prototype pollution, alongside a multi-tier fallback architecture routing between Gemini API streams and an offline rule engine.
+
+#### 🌱 [EcoPulse 2.0](https://github.com/Aayush-Jamwal)
+> **Responsive carbon footprint intelligence and sustainability tracking web platform.**
+- Developed in **React.js** and **Vite** to calculate dynamic real-time environmental metrics based on user inputs[cite: 1].
+- Enforced strict prompt patterns and JSON-schema constraints to deliver deterministic AI calculations (96.24/100 score)[cite: 1].
+- Built accessible UI workflows adhering to WCAG standards with cross-device state persistence[cite: 1].
+
+#### 🔍 [URL: Unmasking Rogue Links](https://github.com/Aayush-Jamwal)
+> **Browser-based automated security utility for client-side URL parsing and threat detection.**
+- Developed a lightweight browser extension that parses URL tokens to flag malicious phishing patterns in real time[cite: 1].
+- Extracted and evaluated 25 structural and protocol-level features across an 11,000+ benchmark dataset[cite: 1].
+- Built with a hardened Content Security Policy (CSP) and backed by an automated 90-assertion Jest test suite[cite: 1].
+
+---
+
+### 📊 GitHub Stats
+
 <p align="left">
-<a href="https://www.facebook.com/aayush.jamwal/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="aayush jamwak" height="30" width="40" /></a>
-<a href="https://instagram.com/aayush._.jamwal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="faded._.ace" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/aayushjamwal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@aayushjamwal" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/aayush-jamwal-478123171/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ss" height="30" width="40" /></a>
+  <img src="https://github-readme-stats.vercel.app/api?username=Aayush-Jamwal&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Aayush's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aayush-Jamwal&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
-<h3 align="left">I think I am Good In these At the moment:</h3>
-<p align="left"> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-<a href="https://unity.com" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/unity/unity-original.svg" alt="unity" width="40" height="40"/></a></p>
+
+---
+
+### 📫 Connect with Me
+
+- **Email:** [aayushjamwal@gmail.com](mailto:aayushjamwal@gmail.com)[cite: 1]
+- **LinkedIn:** [linkedin.com/in/aayushjamwal](https://linkedin.com/in/aayushjamwal)[cite: 1]
+- **Location:** Shimla, Himachal Pradesh, India[cite: 1]
