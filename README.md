@@ -12,8 +12,8 @@ Computer Science graduate passionate about building robust web platforms, automa
 ### 🚀 Highlights & Recent Milestones
 
 - 🏆 **#67 India** — Ranked among top engineers in PromptWars Virtual for **MatchDay Pro** (Vanilla JS, client-side telemetry, dual-runtime test suite).
-- 🌍 **Top 400 Globally** — Recognized in PromptWars for **EcoPulse 2.0** (React/Vite carbon footprint analytics engine, 96.24/100 benchmark score)[cite: 1].
-- 🛡️ **Cyber & Forensics Background** — Former Lab Intern at the State Forensic Science Laboratory (SFSL) and Systems Intern for the G20 DRR Working Group (NDMA)[cite: 1].
+- 🌍 **Top 400 Globally** — Recognized in PromptWars for **EcoPulse 2.0** (React/Vite carbon footprint analytics engine, 96.24/100 benchmark score).
+- 🛡️ **Cyber & Forensics Background** — Former Lab Intern at the State Forensic Science Laboratory (SFSL) and Systems Intern for the G20 DRR Working Group (NDMA).
 - 🤝 **International Operations** — Delegation Operations Volunteer at the 3rd BRICS DRR Working Group Meeting (July 2026).
 
 ---
