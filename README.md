@@ -59,8 +59,15 @@ Computer Science graduate passionate about building robust web platforms, automa
 ### 📊 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Aayush-Jamwal&show_icons=true&theme=tokyonight&hide_border=true" alt="Aayush's GitHub Stats" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Aayush-Jamwal&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <a href="https://github.com/Aayush-Jamwal">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aayush-Jamwal&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  </a>
+</p>
+
+<p align="left">
+  <a href="https://github.com/Aayush-Jamwal">
+    <img src="https://github-profile-trophy.vercel.app/?username=Aayush-Jamwal&theme=tokyonight&no-frame=true&no-bg=true&margin_w=4" alt="GitHub Trophies" />
+  </a>
 </p>
 
 ---
